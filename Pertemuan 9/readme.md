@@ -45,9 +45,6 @@ Tugas ini berisi implementasi Machine Learning dengan metode **K-Means Clusterin
 ## Hasil  
 Output dari tugas ini berupa hasil clustering yang divisualisasikan menggunakan grafik atau plot.  
 
-![image](https://github.com/user-attachments/assets/06869ca9-d14b-404c-87ce-10114439c131)
-![image](https://github.com/user-attachments/assets/c029bec8-91d2-45b6-9e4a-1c045dfa7528)
-
 ## Teknologi yang Digunakan  
 - Python  
 - Google Colab  
